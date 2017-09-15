@@ -12,6 +12,11 @@ package co.in.estore;
  */
 
 public class Demo2 {
+	
+	
+	public void m() {
+		System.out.println("Hi java");
+	}
 	//alignment --->ctrl+shift+f
 	// we can define variables and methods inside the class
 
